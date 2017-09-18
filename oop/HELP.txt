@@ -1,0 +1,35 @@
+                                                                        SEECS MANAGEMENT SYSTEM
+
+ USERNAME: SEECS
+ PASSWORD: seecs123
+
+
+ 
+
+             Our programme starts with a main menu which contains
+
+           1. STUDENT ACCESS
+           2. TEACHER ACCESS
+           3. EXAM BRANCH MEMBER ACCESS
+    
+          Each of above options give access as authorized to them
+          
+         student can view his information 
+         issue book from library
+         and see his fees
+         
+         and these have been included as sub_options
+
+         Teacher have access to his information , student information and he can edit student information
+         also regarding academic issues
+
+         EXAM branch members have access to all of functionalities of programmes and they
+         can edit and see all data.
+         
+         As a user you have to enter IDs to view some particlar information
+         
+         We have student from ID 1 TO 19
+         TEACHERS 100 TO 109
+         STAFF 200 TO 204
+
+                           ***THANK YOU***   
